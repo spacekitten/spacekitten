@@ -2,6 +2,12 @@
 
 > Pithy project description
 
+## Team
+
+  - __Product Owner__: firstName
+  - __Scrum Master__: lastName
+  - __Development Team Members__: teamMember, teamMember
+
 ## Table of Contents
 
 1. [Usage](#Usage)
@@ -39,12 +45,6 @@ bower install
 ### Tasks
 
 See the projects backlog in asana [here](https://LINKTOYOURASANA.com)
-
-## Team
-
-  - __Product Owner__: firstName
-  - __Scrum Master__: lastName
-  - __Development Team Members__: teamMember, teamMember
 
 
 ## Contributing
