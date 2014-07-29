@@ -4,8 +4,8 @@
 
 ## Team
 
-  - __Product Owner__: firstName
-  - __Scrum Master__: lastName
+  - __Product Owner__: teamMember
+  - __Scrum Master__: teamMember
   - __Development Team Members__: teamMember, teamMember
 
 ## Table of Contents
