@@ -9,8 +9,8 @@
 1. [Development](#development)
     1. [Installing Dependencies](#installing-dependencies)
     1. [Tasks](#tasks)
+1. [Team](#team)
 1. [Contributing](#contributing)
-1. [License](#license)
 
 ## Usage
 
@@ -39,6 +39,13 @@ bower install
 ### Tasks
 
 See the projects backlog in asana [here](https://LINKTOYOURASANA.com)
+
+## Team
+
+  - __Product Owner__: firstName
+  - __Scrum Master__: lastName
+  - __Development Team Members__: teamMember, teamMember
+
 
 ## Contributing
 
