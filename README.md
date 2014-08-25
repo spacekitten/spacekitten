@@ -42,9 +42,9 @@ npm install
 bower install
 ```
 
-### Tasks
+### Roadmap
 
-See the projects backlog in asana [here](https://LINKTOYOURASANA.com)
+View the project roadmap [here][issues]
 
 
 ## Contributing
