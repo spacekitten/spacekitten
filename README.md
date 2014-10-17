@@ -1,6 +1,6 @@
 # Space Kitten
 
-> space cat
+> Pithy project description
 
 ## Team
 
