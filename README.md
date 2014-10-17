@@ -1,12 +1,12 @@
-# Project Name
+# Space Kitten
 
-> Pithy project description
+> space cat
 
 ## Team
 
-  - __Product Owner__: teamMember
-  - __Scrum Master__: teamMember
-  - __Development Team Members__: teamMember, teamMember
+  - __Product Owner__: space cat
+  - __Scrum Master__: space cat
+  - __Development Team Members__: space cat, space cat
 
 ## Table of Contents
 
